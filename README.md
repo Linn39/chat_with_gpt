@@ -19,6 +19,8 @@ Interact with ChatGPT on the command line using its API.
 Alternatively, skip steps 2 and 3, create conda environment with .yml file:
 ```conda env create -f environment.yml```
 
+4. Create a ```path.json``` file in the project root directory to store your API Key
+
 ## Simple chat with GPT
 1. run ```python src/chat.py```
 2. Start chatting.
