@@ -20,6 +20,6 @@ Alternatively, skip steps 2 and 3, create conda environment with .yml file:
 ```conda env create -f environment.yml```
 
 ## Simple chat with GPT
-1. run ```python chat.py```
+1. run ```python src/chat.py```
 2. Start chatting.
 3. Exit the conversation with ```Ctrl+C```
